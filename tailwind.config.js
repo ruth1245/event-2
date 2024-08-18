@@ -11,4 +11,3 @@ export default {
 }
 
 
-//   -- Designed and Developed by:- G-Tech Offical 

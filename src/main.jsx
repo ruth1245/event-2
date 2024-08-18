@@ -1,4 +1,4 @@
-// -- Designed and Developed by:- G-Tech Offical 
+
 
 import React from 'react'
 import ReactDOM from 'react-dom/client'
@@ -12,4 +12,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 
 
-//   -- Designed and Developed by:- G-Tech Offical 
+ 
